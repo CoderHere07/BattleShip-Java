@@ -1,3 +1,3 @@
-compile using jdk javac
+Compile using jdk javac
 
-this is cli only
+This is CLI only
